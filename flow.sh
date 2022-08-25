@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # stage changes
-git _
+git add --all
 
 # commit changes
-git _
+git commit -m "Initla commit"
 
 # push changes
-git _
+git push 
