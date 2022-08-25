@@ -4,7 +4,7 @@
 git add --all
 
 # commit changes
-git commit -m "Initla commit"
+git commit -m "Initial commit"
 
 # push changes
 git push 
