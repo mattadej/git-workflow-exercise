@@ -1,10 +1,9 @@
 #!/bin/bash
 
-read commit
-
 # stage changes
 git add --all
 
+read commit
 # commit changes
 git commit -m $commit
 
